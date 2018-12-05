@@ -6,6 +6,8 @@ Tool to process artifact free text descriptions and extract mentioned attribute 
 
 Copy the GRAVITATE semantic-enrichment release files to <install dir>
 
+Unzip bm_lexicon.zip, ch-gazatteer.zip
+
 Install Python 2.7 and Pip
 Install Python lib NLTK 3.2.1 (download all corpus data)
 Install Python lib Numpy 1.13.1+mk1
