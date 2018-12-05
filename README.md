@@ -4,7 +4,7 @@ Tool to process artifact free text descriptions and extract mentioned attribute 
 
 # Install
 
-Copy the GRAVITATE semantic-enrichment release files to <install dir>
+Copy the GRAVITATE semantic-enrichment release files to [install dir]
 
 Unzip bm_lexicon.zip, ch-gazatteer.zip
 
@@ -13,7 +13,7 @@ Install Python lib NLTK 3.2.1 (download all corpus data)
 Install Python lib Numpy 1.13.1+mk1
 Install soton_corenlppy, lexicopy, openiepy
 
-cd <install dir>
+cd [install dir]
 pip install --upgrade --upgrade-strategy “only-if-needed” soton_corenlppy-0.1.0-py27-none-any.whl
 pip install --upgrade --upgrade-strategy “only-if-needed” lexicopy-0.1.0-py27-none-any.whl
 pip install --upgrade --upgrade-strategy “only-if-needed” openiepy-0.1.0-py27-none-any.whl
@@ -30,8 +30,8 @@ Note: Installation of pre-requisites to other locations than specified will requ
 Create your input data by running a SPARQL query against GRAVIATE BlazeGraph
 
 curl -X POST http://localhost:9999/blazegraph/sparql --data-urlencode query@query-artifact-text.txt -H 'Accept:application/json;charset=UTF-8' -o "artifact-text.json"
-Copy artifact-text.json to <install dir>
-cd <install dir>
+Copy artifact-text.json to [install dir]
+cd [install dir]
 python ch_information_extraction_app.py ch_information_extraction_app.ini
 
 The output file productions.trig will be generated in the <install dir>
