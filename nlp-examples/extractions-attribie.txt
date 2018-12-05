@@ -1,0 +1,672 @@
+Rim and body sherd of South Ionian pottery cup with everted rim;  interior: reserved band at top of lip, glazed black below; wall reserved with streaky black band preserved at break; top of lip glazed; exterior: lip and handle zone reserved with band between; glazed below; inscription on exterior.
+0	"Rim"	"of"	"South Ionian pottery cup"	1.0
+0	"Rim and body sherd of South Ionian pottery cup"	"with"	"everted rim"	1.0
+0	"Rim"	"with"	"everted rim"	1.0
+0	"reserved band"	"at"	"top of lip"	0.6
+0	"reserved"	"at"	"lip"	0.2
+0	"reserved"	"at"	"top of lip"	0.6
+0	"reserved band"	"glazed black below"	1.0
+0	"top of lip"	"glazed"	0.5
+0	"glazed black"	1.0
+0	"wall reserved"	"preserved"	"at"	"break"	1.0
+0	"wall reserved"	"with"	"streaky black band"	1.0
+0	"top"	"of"	"lip"	1.0
+0	"lip and handle zone reserved"	"with"	"band"	1.0
+0	"band"	"between"	0.5
+0	"glazed below"	1.0
+0	"inscription"	"on"	"exterior"	1.0
+Rim, body, and handle sherd (rejoined from four fragments) of Vroulian pottery shallow cup with short, sharp everted rim; glazed black; interior: reserved band around rim; below, upper parts of two widely-separated incised upright palmettes with alternate fronds in added red and incised scalloped line framing top; exterior: upper parts of five incised upright palmettes with alternate fronds in red and incised scalloped line framing top; two incised volutes of possible pendant palmette to right of handle.
+1	"glazed black"	1.0
+1	"reserved band"	"around"	"rim"	1.0
+1	"upper parts of two widely-separated incised upright palmettes"	"with"	"alternate fronds"	1.0
+1	"upper parts of two widely-separated incised upright palmettes"	"in"	"added red and incised scalloped line"	1.0
+1	"upper parts of two widely-separated incised upright palmettes"	"framing"	"top"	1.0
+1	"two incised volutes of possible pendant palmette"	"to"	"right of handle"	1.0
+Rim sherd of Chian pottery Type B1 kantharos; white slip; interior: reserved band around rim and glazed streaky black below; part of lotus bud in added white outline with added red centre followd by single white band; exterior: trace of brown line on edge of rim and reserved below; inscription on exterior.
+2	"reserved band"	"around"	"rim"	1.0
+2	"reserved"	"around"	"rim"	1.0
+2	"reserved band"	"glazed streaky black below"	1.0
+2	"part"	"of"	"lotus bud"	1.0
+2	"part of lotus bud"	"in"	"added white outline"	1.0
+2	"part of lotus bud"	"with"	"added red centre followd"	1.0
+2	"part of lotus bud"	"by"	"single white band"	1.0
+2	"trace"	"of"	"brown line"	1.0
+2	"trace"	"on"	"edge of rim"	0.666666666667
+2	"trace of brown line"	"below"	1.0
+2	"inscription"	"on"	"exterior"	1.0
+Egyptian terracotta figure of Isis riding a horse.
+3	"Egyptian terracotta figure"	"of"	"Isis"	1.0
+3	"Egyptian terracotta figure of Isis"	"riding"	"a horse"	1.0
+Isis riding astride a stallion rearing to right, its forelegs off the ground.
+4	"Isis"	"rearing"	"off"	"the ground"	0.333333333333
+4	"Isis"	"rearing"	"to"	"right"	0.5
+4	"Isis"	"riding"	"astride"	"a stallion"	1.0
+4	"Isis"	"astride"	"stallion"	1.0
+4	"its forelegs"	"off"	"the ground"	0.5
+The goddess,  whose body is twisted to front, with her leg bent sharply at the knee, wears a short-sleeved tunic of uncertain length, with probable indications of an ‘Isis knot’ between the breasts.
+5	"The goddess"	"is twisted"	"with"	"probable indications of an Isis knot"	0.25
+5	"whose body"	"is twisted"	"sharply at"	"the knee"	1.0
+5	"The goddess"	"is twisted"	"to"	"front"	0.5
+5	"The goddess"	"is twisted"	"with"	"leg"	1.0
+5	"The goddess"	"is twisted"	"between"	"the breasts"	0.5
+5	"whose body"	"to"	"front"	0.5
+5	"short-sleeved tunic"	"of"	"length"	1.0
+5	"The goddess"	"wears"	"a short-sleeved tunic of uncertain length"	0.333333333333
+Her head is lost, but locks and a wreath fall to her left shoulder; one lock remains on the right shoulder.
+6	"Her head"	"is lost"	1.0
+6	"one lock remains"	"on"	"the right shoulder"	1.0
+She probably held a palm branch in her right hand, but the stem only remains.
+7	"She"	"probably held"	"a palm branch"	1.0
+A wide fillet extends in a curve from her wreath to her left hand, which appears to hold a small, uncertain object, possibly a pot.
+8	"A wide fillet"	"extends"	"in"	"a curve"	1.0
+8	"A wide fillet"	"appears"	"to"	"hold a small"	0.2
+8	"A wide fillet"	"appears"	"to"	"hold a uncertain"	0.1
+8	"her wreath"	"to"	"hold a small"	0.25
+8	"her wreath"	"to"	"hold a uncertain"	0.125
+There seems little doubt that she not only had a palm branch, but also a large headdress of wreaths and a crown.
+9	"There"	"seems"	"little doubt"	1.0
+The horse apparently has no harness.
+10	"The horse"	"apparently has"	"no harness"	1.0
+The group stands on a rectangular plinth with mouldings top and bottom; it is inset at each end.
+11	"The group stands"	"with"	"mouldings top and bottom"	1.0
+11	"The group stands"	"on"	"a rectangular plinth"	1.0
+11	"it"	"at"	"each end"	1.0
+11	"it"	"is"	"inset"	1.0
+The back is plain, with a circular vent.
+12	"The back is plain"	"with"	"a circular vent"	1.0
+Hollow, from two-piece mould. Matt red-brown slip on the front, with areas of a white dressing also on the front, particularly on the deity’s clothing; some pink paint on the horse; one hoof, at least, appears to be painted black.
+13	"some pink paint"	"on"	"the horse"	1.0
+13	"one hoof"	"appears"	"to"	"be painted black"	1.0
+13	"one hoof"	"at least"	1.0
+Brown Nile silt with abundant fine gold mica, common rounded quartz and white inclusions.
+14	"Brown Nile silt"	"with"	"fine gold mica"	1.0
+Shell of the Mediterranean marine 'Trochus Turbinatus' gastropod mollusc.
+15	"Shell"	"of"	"Mediterranean marine 'Trochus Turbinatus' gastropod mollusc"	1.0
+15	"Shell"	"of"	"the Mediterranean marine 'Trochus Turbinatus' gastropod mollusc"	1.0
+Rim and body sherd of South Ionian pottery cup with everted rim; interior: reserved band at top of rim, glazed black below; on body, alternating reserved and black concentric bands; exterior: wide black band at top rim, reserved lip and handle zone with band between; lower body glazed with reserved band near foot; inscription on exterior.
+16	"Rim"	"of"	"South Ionian pottery cup"	1.0
+16	"Rim and body sherd of South Ionian pottery cup"	"with"	"everted rim"	1.0
+16	"Rim"	"with"	"everted rim"	1.0
+16	"reserved band"	"at"	"top of rim"	0.6
+16	"reserved"	"at"	"rim"	0.2
+16	"reserved"	"at"	"top of rim"	0.6
+16	"reserved band"	"glazed black below"	1.0
+16	"top of rim"	"glazed"	0.5
+16	"glazed black"	1.0
+16	"wide black band"	"with"	"band"	1.0
+16	"wide black band"	"at"	"top rim reserved lip and handle zone"	0.333333333333
+16	"band"	"between"	0.333333333333
+16	"lower body"	"glazed"	"with"	"reserved band"	1.0
+16	"lower body"	"glazed"	"near"	"foot"	1.0
+16	"inscription"	"on"	"exterior"	1.0
+Rim sherd of Chian pottery Type B1 kantharos; white slip; interior: reserved band at rim, glazed streaky black below; part of lotus flower in added white outline with added red centres; exterior reserved; inscription on exterior.
+17	"reserved band"	"at"	"rim"	1.0
+17	"reserved"	"at"	"rim"	1.0
+17	"reserved band"	"glazed streaky black below"	1.0
+17	"part"	"with"	"red centres"	1.0
+17	"part of lotus flower"	"in"	"added white outline"	1.0
+17	"part"	"of"	"lotus flower in white outline"	0.666666666667
+17	"part of lotus flower"	"with"	"added red centres"	1.0
+17	"inscription"	"on"	"exterior"	1.0
+Lower body and conical foot sherd of Chian, possibly Simple Animal Style patterned, pottery chalice; white slip; interior glazed streaky black (mostly worn) with reserved dot at centre; exterior: reserved band at junction of bowl and foot, glazed black below; inscription on reserved underside.
+18	"Chian possibly Simple Animal Style"	"patterned"	1.0
+18	"interior"	"glazed"	"at"	"centre"	1.0
+18	"interior"	"glazed streaky black"	0.666666666667
+18	"reserved band"	"at"	"junction"	1.0
+18	"reserved"	"at"	"junction"	1.0
+18	"reserved band"	"glazed black below"	1.0
+18	"glazed black"	1.0
+18	"inscription"	"on"	"reserved underside"	1.0
+Rim sherd of South Ionian pottery little master cup; interior: reserved band around edge of rim and glazed black below; exterior: narrow black line on edge of rim followed by ivy leaf pattern with row of single added red dots.
+19	"reserved band"	"around"	"edge of rim"	0.6
+19	"reserved"	"around"	"edge of rim"	0.6
+19	"reserved band"	"glazed black below"	1.0
+19	"glazed below"	1.0
+19	"narrow line"	"on"	"edge of rim"	0.4
+19	"narrow black line"	"on"	"edge of rim"	0.4
+Fragment of base and lower wall of pottery mortarium;  low disk foot.
+20	"Fragment"	"of"	"base"	1.0
+Rather fine orange-buff clay with cream surface on outside.
+21	"Rather fine orange-buff clay"	"with"	"cream surface"	1.0
+21	"Rather fine orange-buff clay"	"on outside"	1.0
+Graffito underneath foot: vac πανφα vac.
+22	"Graffito"	"underneath"	"foot"	1.0
+Body sherd of Chian pottery Type B kantharos; white slip; interior glazed streaky black with single added white band; exterior reserved; inscription on exterior.
+23	"interior"	"glazed"	"streaky black with"	"single added white band"	0.5
+23	"interior"	"streaky black with"	"added white band"	0.5
+23	"interior"	"glazed black"	0.666666666667
+23	"interior"	"glazed streaky black"	0.666666666667
+23	"inscription"	"on"	"exterior"	1.0
+Baluster sherd of Attic black-figured pottery dinos stand; exterior: incised spoked rosettes (fired red).
+24	"Baluster sherd of Attic black-figured pottery dinos"	"stand"	1.0
+Partially reconstructed (from four fragments and added plaster) East Dorian pottery cup with everted rim and small conical foot; glazed unevenly fired; interior glazed dark brown; exterior: wide streaky dark brown band on rim; reserved band in handle zone; streakily glazed below; underside of conical foot reserved; inscription on exterior.
+25	"interior"	"glazed"	1.0
+25	"wide brown band"	"on"	"rim"	0.666666666667
+25	"wide streaky dark brown band"	"on"	"rim"	0.666666666667
+25	"brown"	"on"	1.0
+25	"reserved band"	"in"	"handle zone"	1.0
+25	"streakily glazed below"	1.0
+25	"underside"	"of"	"foot"	1.0
+25	"underside"	"of"	"conical foot"	1.0
+25	"inscription"	"on"	"exterior"	1.0
+Omphalos sherd of East Greek pottery phiale mesomphalos; black (fired brownish) glaze; interior: on top and on side of flat omphalos, added red and added white bands; underside: red bands.
+26	"Omphalos sherd"	"of"	"East Greek pottery phiale"	1.0
+26	"black (fired brownish) glaze"	1.0
+Body sherd of Chian, possibly Wild Goat Style, pottery chalice; white slip; interior: glazed streaky brown with two concentric added white bands; exterior: painted decoration consisting of undetermined motif.
+27	"glazed streaky brown"	"with"	"two concentric added white bands"	1.0
+27	"painted decoration"	"consisting"	"of"	"motif"	1.0
+27	"painted decoration"	"consisting"	"of"	"undetermined motif"	1.0
+Fragment of ring base of Chian Wild Goat Style pottery kernos; white slip; exterior: guilloche pattern (mostly worn); graffito on exterior.
+28	"Fragment"	"of"	"ring base"	1.0
+28	"ring base"	"of"	"Chian Wild Goat Style pottery kernos"	1.0
+28	"graffito"	"on"	"exterior"	1.0
+Rim sherd of Attic red-figured pottery skyphos; interior glazed black; exterior: red-figure decoration consisting of head and chest of youth with short hair, to right (chest in three-quarter view); sketchy anatomical markings in dilute brown on chest; preliminary sketch on face and chest.
+29	"interior"	"glazed black"	0.5
+29	"red-figure decoration"	"consisting"	"of"	"head and chest of youth"	1.0
+29	"red-figure decoration"	"consisting"	"with"	"short hair"	1.0
+29	"red-figure decoration"	"consisting"	"to"	"right (chest in three-quarter view)"	1.0
+29	"sketchy anatomical markings"	"in"	"dilute brown"	1.0
+29	"sketchy anatomical markings"	"on"	"chest"	1.0
+Rim shows some wear.
+Rim and wall sherd of East Greek (North Ionian) Late Wild Goat pottery plate; brown clay with white inclusions and some silver mica; exterior: fugitive cream slip (mostly effaced), two sets of painted bands; glaze over edge of lip; interior (slipped cream), from outside: wavy line; band with added red band lined in white; frieze of large rosettes alternating with sets of red and black bars; in tondo, star pattern part-preserved.
+31	"interior (slipped cream)"	"from outside"	1.0
+31	"band"	"lined"	"in"	"white"	0.5
+31	"band"	"with"	"red band"	1.0
+31	"band"	"with"	"added red band"	1.0
+31	"frieze"	"of"	"rosettes"	1.0
+Flattened handle of a pottery transport amphora, gradual curve.
+Clay fine light red-brown; cream slip.
+Circular stamp.
+Greek inscription.
+Double handle from a pottery transport amphora.
+Clay medium, orange-brown;  cream slip.
+Rectangular stamp at top of handle with Greek inscription.
+38	"Rectangular stamp"	"at"	"top of handle"	0.5
+38	"Rectangular stamp"	"with"	"Greek inscription"	1.0
+Fragment of a marble ovolo moulding border which belongs to an Ionic cyma.
+39	"Fragment of a marble ovolo moulding border which"	"belongs"	"to"	"an Ionic cyma"	1.0
+39	"Fragment"	"of"	"marble"	1.0
+The fragment is made of light grey marble and is weathered.
+40	"The fragment"	"is made"	"of"	"light grey marble"	1.0
+40	"The fragment"	"is weathered"	1.0
+Vessel sherd; earthenware; salmon-pink fabric; exterior decorated with horizontal and vertical bands and S-shaped scrolls; all painted in black or orange on a buff ground.
+41	"all painted"	"on"	"a buff ground"	1.0
+Mica and white inclusions.
+Fragment of pottery transport amphora.
+43	"Fragment"	"of"	"pottery transport"	1.0
+Handle at neck join to sharp turn.
+Rectangular stamp.
+Clay fine red-brown;  cream slip.
+Conical foot sherd of Chian pottery chalice; white slip on exterior, glazed streaky black (fired reddish); inscription on exterior.
+47	"Conical foot sherd"	1.0
+47	"white slip"	"on"	"exterior"	1.0
+47	"white slip"	"glazed streaky black (fired reddish)"	1.0
+47	"exterior"	"glazed streaky black"	0.5
+47	"inscription"	"on"	"exterior"	1.0
+Lower body sherd of Chian pottery open vessel, possibly a cup; white slip; interior: glazed streaky black; exterior: painted decoration consisting of undetermined motif, perhaps a carelessly applied band.
+48	"glazed black"	1.0
+48	"glazed streaky black"	1.0
+48	"painted decoration"	"consisting"	"of"	"motif"	1.0
+48	"painted decoration"	"consisting"	"of"	"undetermined motif"	1.0
+Round handle at neck join from a pottery transport amphora.
+49	"Round"	"join"	"from"	"a pottery transport amphora"	0.5
+49	"Round"	"handle"	"at"	"neck"	1.0
+Clay near fine buff;  mixed inclusions;  cream surface.
+50	"Clay"	"near"	"fine buff"	1.0
+Rectangular stamp at top of handle with Latin inscription.
+51	"Rectangular stamp"	"at"	"top of handle"	0.5
+51	"Rectangular stamp"	"with"	"Latin inscription"	1.0
+Rim and body sherd (mended from two fragments) of South Ionian pottery cup with everted rim; interior glazed black; exterior: lip and handle zone reserved, band between;  glazed below; inscription on exterior.
+52	"Rim sherd (mended from two fragments)"	"of"	"South Ionian pottery cup"	1.0
+52	"Rim and body sherd (mended from two fragments) of South Ionian pottery cup"	"with"	"everted rim"	1.0
+52	"interior"	"glazed black"	0.5
+52	"band"	"between"	0.5
+52	"glazed below"	1.0
+52	"inscription"	"on"	"exterior"	1.0
+Egyptian sealing in fired clay.
+53	"Egyptian"	"sealing"	"in"	"fired clay"	1.0
+A sealing impressed by two intaglio gems, one (stamped twice) with a human foot and an uncertain device, possibly a mattock, the other with Osiris-in-a-Jar to front.
+54	"impressed (stamped twice)"	"with"	"foot"	0.5
+54	"A sealing impressed"	"by"	"two intaglio gems"	1.0
+54	"A sealing impressed"	"with"	"Osiris-in-a-Jar"	0.5
+54	"A sealing impressed"	"to"	"front"	0.333333333333
+54	"A sealing impressed"	"(stamped twice) with"	"a human foot and an uncertain device"	1.0
+The back has an impression of the papyrus document to which it was attached, with a hole for the string that bound the package.
+55	"The back has an impression of the papyrus document"	"with"	"a hole"	1.0
+55	"The back has an impression of the papyrus document"	"for"	"the string that bound the package"	1.0
+55	"The back has an impression of the papyrus document"	"was attached"	1.0
+Red-brown Nile silt with abundant mica and white inclusions.
+56	"Red-brown Nile silt"	"with"	"abundant mica and white inclusions"	1.0
+Lower body and flaring foot of South Ionian pottery cup, possibly a cup with everted rim; interior: glazed black; concentric added red and added white bands; exterior: glazed black on bowl and foot; reserved on underside of foot and bowl; inscription on exterior.
+57	"Lower body"	"with"	"everted rim"	1.0
+57	"Lower body"	"flaring"	"foot of South Ionian pottery cup"	1.0
+57	"glazed black"	1.0
+57	"reserved"	"on"	"underside"	1.0
+57	"reserved"	"of"	"foot"	1.0
+57	"inscription"	"on"	"exterior"	1.0
+Oval handle of a pottery transport amphora.
+58	"Oval"	"handle"	"of"	"a pottery transport amphora"	1.0
+Clay medium, brick red; thick dark grey core; white slip.
+Rectangular stamp.
+Greek inscription.
+Fragment of pottery transport amphora.
+62	"Fragment"	"of"	"pottery transport"	1.0
+Flattened handle, gradual curve.
+Rectangular stamp.
+Clay fine pink-buff.
+Lower body sherd of Chian Simple Animal Style pottery chalice with start of cul; white slip; interior glazed streaky black; traces of added red band at top of sherd and of two red bands at bottom; exterior: painted decoration consisting of undetermined motif at top left; below, two dilute lines above top of cul; inscription on exterior.
+66	"interior"	"glazed black"	0.75
+66	"interior"	"glazed streaky black"	0.75
+66	"traces of added red band"	"at"	"top of sherd"	1.0
+66	"traces of added red band"	"of"	"two red bands"	0.5
+66	"traces of added red band"	"at"	"bottom"	0.5
+66	"painted decoration"	"consisting"	"of"	"motif"	1.0
+66	"painted decoration"	"consisting"	"at"	"top"	1.0
+66	"painted decoration"	"consisting"	"of"	"undetermined motif"	1.0
+66	"painted decoration"	"left"	1.0
+66	"two dilute lines"	"above"	"top of cul"	1.0
+66	"inscription"	"on"	"exterior"	1.0
+Foot of East Greek pottery stemmed cup; brown fired glaze on exterior and underside; resting surface and outer face of foot reserved; inscription cut twice on underside (once on resting surface and once on inner face of foot).
+67	"Foot"	"of"	"East pottery"	1.0
+67	"Foot"	"of"	"East Greek pottery"	1.0
+67	"brown"	"fired glaze"	"on"	"exterior and underside"	1.0
+67	"brown"	"fired"	1.0
+67	"surface face"	"of"	"foot reserved"	1.0
+67	"inscription cut"	"twice on"	"underside (once on resting surface and once on inner face of foot)"	0.333333333333
+Flattened handle of a pottery transport amphora, gradual curve.
+Clay near fine, accreted.
+69	"Clay"	"near"	"fine"	1.0
+69	"Clay"	"accreted"	1.0
+Rectangular stamp.
+Scarab in Egyptian blue, probably mould-made; underside decorated with composition arranged in three registers; in upper register, winged sun-disc; in middle register, to right a cartouche containing three hieroglyphs (Men-ka-ra) and to left a griffin with its wings spread above; in lower register, right facing fish; registers separated by horizontal, probably incised, double line; hatching visible in falcon's wing.
+71	"Scarab"	"in"	"Egyptian blue"	1.0
+71	"underside"	"decorated"	"with"	"composition"	1.0
+71	"underside"	"registers"	1.0
+71	"its wings spread"	"above"	1.0
+71	"right"	"facing"	"fish"	1.0
+Terracotta scarab-mould in Nile clay; small mould, with almost flat surface underneath; impression for small scarab with almost indistinct details of back; traces of turquoise paste/glaze adhering to sides and base of impression; in pale red brown micaceous Nile silt fabric.
+72	"Terracotta"	"scarab-mould in"	"Nile clay"	1.0
+72	"small mould"	"with"	"almost flat surface"	1.0
+72	"surface"	"underneath"	0.5
+72	"impression"	"for"	"scarab"	1.0
+72	"impression"	"with"	"details"	1.0
+72	"impression"	"with"	"almost indistinct details"	1.0
+72	"impression"	"for"	"small scarab"	1.0
+72	"impression"	"of back"	1.0
+72	"traces of turquoise"	"glaze"	"adhering to"	"sides and base of impression"	1.0
+72	"traces of turquoise"	"paste"	1.0
+Body sherd of Rhodian pottery Vroulia cup, probably with everted rim; interior glazed streaky black; part of incised enclosed palmette and lotus flower with added red; exterior glazed streaky black; part of incised upright palmette with trace of red.
+73	"interior"	"glazed black"	0.75
+73	"interior"	"glazed streaky black"	0.75
+73	"part of incised enclosed palmette and lotus flower"	"with"	"added red"	0.5
+73	"exterior"	"glazed black"	0.75
+73	"exterior"	"glazed streaky black"	0.75
+73	"part"	"of incised"	"with"	"trace"	1.0
+73	"part of incised upright palmette"	"with"	"trace of red"	0.5
+Neck and oval handle from a pottery transport amphora.
+74	"Neck and oval"	"handle"	"from"	"a pottery transport amphora"	1.0
+Clay near fine mid-brown;  mixed inclusions.
+75	"Clay"	"near"	"fine"	1.0
+Rectangular stamp at top of handle with Greek inscription and trident symbol.
+76	"Rectangular stamp"	"at"	"top of handle"	0.5
+76	"Rectangular stamp"	"with"	"Greek inscription and trident symbol"	0.5
+Body sherd of Rhodian pottery Vroulia cup, probably with everted rim; interior glazed black; uncertain incised decoration with vertical lines with some added red; two slightly curving bands below and possibly trace of incised top of central rosette; exterior glazed black with part of incised palmette or central rosette with red on alternate petals and additional incised scalloped line at top of petals.
+77	"interior"	"glazed black"	0.5
+77	"uncertain incised decoration"	"with some"	"added red"	1.0
+77	"uncertain incised decoration"	"with"	"vertical lines"	1.0
+77	"top"	"of"	"central rosette"	1.0
+77	"exterior"	"glazed"	"with"	"red"	0.5
+77	"exterior"	"glazed"	"black with"	"part of incised palmette or central rosette"	1.0
+77	"exterior"	"glazed black"	0.5
+Rim sherd of Chian pottery Type B1 kantharos; white slip; interior: reserved band at rim, glazed streaky black (very worn) below; part of lotus flower in added white outline with added red centre; top of rim glazed; exterior reserved; inscription on exterior.
+78	"reserved band"	"at"	"rim"	1.0
+78	"reserved"	"at"	"rim"	1.0
+78	"reserved band"	"glazed streaky black (very worn) below"	1.0
+78	"part of lotus flower"	"in"	"added white outline"	1.0
+78	"part of lotus flower"	"with"	"added red centre"	1.0
+78	"part"	"of"	"lotus flower in white outline"	0.666666666667
+78	"part of lotus flower"	"with added"	1.0
+78	"top"	"of"	"rim"	1.0
+78	"top of rim"	"glazed"	1.0
+78	"inscription"	"on"	"exterior"	1.0
+Lip and wall sherd of East Greek (South Ionian?) pottery bowl; very micaceous clay; interior: glazed orange with remains of added lines below rim and on lower wall; exterior: band at top of lip and on wall, the rest reserved; inscription cut on exterior, in reserved zone.
+79	"glazed orange"	"below"	"rim"	1.0
+79	"glazed orange"	"on"	"lower wall"	1.0
+79	"glazed orange"	"with"	"remains of added lines"	1.0
+79	"band"	"at"	"top of lip"	0.666666666667
+79	"band"	"on"	"wall"	1.0
+79	"inscription cut"	"on"	"exterior"	1.0
+79	"inscription cut"	"in"	"reserved zone"	1.0
+79	"inscription"	"on"	"exterior"	1.0
+79	"inscription"	"in"	"reserved zone"	1.0
+Rim sherd (mended from five fragments and added plaster) of Chian Mature Animal Style pottery large chalice; white slip; interior: reserved band at rim, glazed streaky black below; alternating lotus flowers and rosettes in added white outline with added red centres above two white bands; below, trace of white lotus flower; exterior completely worn.
+80	"reserved band"	"at"	"rim"	1.0
+80	"reserved"	"at"	"rim"	1.0
+80	"reserved band"	"glazed streaky black below"	1.0
+80	"exterior"	"completely worn"	1.0
+Foot and wall sherd of Attic black-glazed pottery salt-cellar; flat base; glazed black on interior and exterior (partly peeled); reserved: lowest part of foot and underside; inscription cut on underside.
+81	"inscription cut"	"on"	"underside"	1.0
+81	"inscription"	"on"	"underside"	1.0
+Body sherd (mended from two fragments) of Chian Wild Goat Style pottery chalice; white slip; interior glazed; exterior: painted decoration consisting of parts of two confronted grazing goats (head and lower part of foreleg of goat on left; head and parts of both forelegs of that on right); dot rosette between their heads and rising triangle as filling ornament.
+82	"interior"	"glazed"	1.0
+82	"painted decoration"	"consisting"	"of"	"parts"	1.0
+82	"their heads"	"as"	"filling ornament"	0.5
+82	"their heads"	"rising"	"triangle"	0.5
+Attic Silhouette style pottery miniature omphalos phiale (reconstructed from four sherds and added plaster); interior: narrow added red band below rim above painted decoration consisting of four swans and part of two others, ro right; red on body and wing of each bird and rows of short black strokes above and below; part of red band preserved near centre of tondo; exterior: four brownish black streaky bands of varying thickness.
+83	"narrow red band"	"below"	"rim above decoration"	0.25
+83	"narrow added red band"	"above"	"painted decoration"	1.0
+83	"red"	"below"	1.0
+83	"red"	"on"	"body"	1.0
+83	"part of red band"	"preserved"	"near"	"centre of tondo"	1.0
+83	"part"	"of"	"red band"	1.0
+Body sherd of Chian Mature Animal Style pottery chalice; white slip; interior: no trace of slip remaining; exterior: painted decoration consisting of lion (only head remaining), to left; elaborate rosettes as filling ornament.
+84	"no trace of slip"	"remaining"	1.0
+84	"painted decoration"	"consisting"	"to"	"left"	1.0
+84	"painted decoration"	"consisting"	"of"	"lion (only head remaining)"	1.0
+84	"elaborate rosettes"	"as"	"filling ornament"	1.0
+Fragment of pottery transport amphora.
+85	"Fragment"	"of"	"pottery transport"	1.0
+Oval handle.
+86	"Oval"	"handle"	1.0
+Rectangular stamp.
+Clay medium, dull brown;  some large red inclusions.
+Egyptian terracotta antefix corner.
+An antefixal ornament from the corner of a structure, with simplified acanthus decoration.
+90	"ornament"	"from"	"corner with acanthus decoration"	0.25
+90	"An antefixal ornament"	"with"	"simplified acanthus decoration"	1.0
+90	"An antefixal ornament"	"from"	"the corner of a structure"	0.5
+It is hand-modelled, with applied leaves, the edges of which are defined by incised grooves.
+91	"the edges"	"of are defined"	"by"	"incised grooves"	0.5
+91	"It"	"with"	"applied leaves"	1.0
+91	"which"	"by"	"incised grooves"	0.5
+91	"It"	"is hand-modelled"	1.0
+Rough holes are pierced almost right through, below the arch of the lowest leaves on each side, and the stumps of inserted clay stems survive in both.
+92	"Rough holes"	"on"	"each side and the stumps of inserted clay"	1.0
+92	"Rough holes"	"below"	"the arch of the lowest leaves"	1.0
+92	"Rough holes"	"are"	"pierced almost right"	1.0
+92	"Rough holes"	"through"	1.0
+Orange-brown Nile silt with a grey core, with common gold mica and white inclusions.
+93	"Orange-brown Nile silt"	"with"	"a grey core"	1.0
+93	"Orange-brown Nile silt"	"with"	"common gold mica and white inclusions"	0.5
+93	"Orange-brown Nile silt"	"with"	"grey core"	1.0
+Fragment of wall and offset of lip of Attic black-glazed cup, type C.
+94	"Fragment"	"of"	"wall"	1.0
+Wholly glazed.
+95	"Wholly glazed"	1.0
+Incised inscription on inside.
+96	"Incised inscription"	"on inside"	1.0
+Lip sherd of East Greek (North Ionian) pottery bowl; interior glazed orange; reserved on the outside except for line at top of lip; inscription cut on exterior.
+97	"interior"	"glazed"	1.0
+97	"reserved"	"on"	"top"	0.666666666667
+97	"reserved"	"on"	"the top"	0.666666666667
+97	"reserved"	"for"	"line"	1.0
+97	"reserved"	"at"	"top of lip"	1.0
+97	"inscription cut"	"on"	"exterior"	1.0
+97	"inscription"	"on"	"exterior"	1.0
+Rim sherd of Attic black-figure pottery open vase, probably a kantharos; interior: reserved at rim, glazed below; exterior: black band at rim; black-figure decoration consisting of head of Dionysos with open mouth (long hair, added red on beard, ivy wreath with red dots on ivy), to right; inscription on interior.
+98	"reserved"	"at"	"rim"	1.0
+98	"reserved"	"glazed below"	1.0
+98	"black band"	"at"	"rim"	1.0
+98	"black-figure decoration"	"consisting"	"with"	"mouth (long hair, added red on beard, ivy wreath with red dots on ivy)"	1.0
+98	"black-figure decoration"	"consisting"	"to"	"right"	1.0
+98	"black-figure decoration"	"consisting"	"with"	"open mouth (long hair, added red on beard, ivy wreath with red dots on ivy)"	1.0
+98	"black-figure decoration"	"consisting"	"of"	"head of Dionysos"	0.5
+98	"black-figure decoration consisting"	1.0
+98	"inscription"	"on"	"interior"	1.0
+Body sherd of Attic black-figured pottery lid; interior: reserved with streaky glaze band; exterior: black-figure decoration consisting of hindquarters of quadriga team to right with faded added white markings on horses, added red on alternating tails, chariot pole in dilute brown;  graffito on interior.
+99	"reserved"	"with"	"streaky glaze band"	1.0
+99	"black-figure decoration"	"consisting"	"of"	"hindquarters of quadriga team"	1.0
+99	"black-figure decoration"	"consisting"	"on"	"alternating tails"	0.5
+99	"black-figure decoration"	"consisting"	"on"	"horses"	1.0
+99	"black-figure decoration"	"consisting"	"to"	"right"	1.0
+99	"black-figure decoration"	"consisting"	"with"	"faded added white markings"	1.0
+99	"added red"	"on"	"alternating tails"	0.333333333333
+99	"chariot pole"	"in"	"dilute brown"	1.0
+99	"graffito"	"on"	"interior"	1.0
+Shoulder sherd of East Greek, possibly Milesian Fikellura, pottery oinochoe; exterior: cream slip; inscription on exterior.
+100	"inscription"	"on"	"exterior"	1.0
+Body sherd of Attic black-figure pottery band-cup with handle root; interior glazed black; exterior: at far left, black handle surround; incised palmette with added red on heart; black-figure decoration consisting of horseman to right (trace of black leg and foot with added white), riding white horse (hindquarters, part of body and upper off-foreleg remaining; white partly effaced with black showing through); below horse's belly tail of another horse, to right.
+101	"Body sherd of Attic black-figure pottery band-cup"	"with"	"handle root"	1.0
+101	"interior"	"glazed black"	0.5
+101	"incised palmette"	"on"	"heart"	1.0
+101	"incised palmette"	"with"	"added red"	1.0
+101	"black-figure decoration"	"consisting"	"of"	"horseman"	1.0
+101	"black-figure decoration"	"consisting"	"to"	"right (trace of black leg and foot with added white)"	1.0
+101	"black-figure decoration"	"riding"	"white horse (hindquarters, part of body and upper off-foreleg remaining; white partly effaced with black showing through)"	1.0
+101	"black-figure decoration consisting"	1.0
+Rim sherd of Chian Mature Animal Style pottery chalice; white slip; interior: reserved band at rim, glazed black below; part of rosette and pomegranate in added white outline to left of part of lotus flower in white outline with added red centre; exterior: below rim, Z band between pairs of dilute lines; below, part of pendant roundel as filling ornament.
+102	"reserved band"	"at"	"rim"	1.0
+102	"reserved"	"at"	"rim"	1.0
+102	"reserved band"	"glazed black below"	1.0
+102	"glazed black"	1.0
+102	"part"	"of"	"rosette"	1.0
+102	"part"	"of"	"lotus flower in white outline"	0.5
+102	"part of rosette and pomegranate"	"to"	"left of part of lotus flower"	1.0
+102	"part of rosette and pomegranate"	"with"	"added red centre"	0.5
+102	"part"	"to"	"red centre"	0.666666666667
+102	"Z band"	"between"	"pairs of dilute lines"	1.0
+102	"part of pendant roundel"	"as"	"filling ornament"	1.0
+Sherd of lower part of East Greek pottery vessel; the wall cut out with two slim triangular slits preserved; two light grooves on upper part;  inside reserved with dribbles of glaze; outside glazed above; series of bands on cut-out area below, with the glaze spilling over on to the sides of the 'legs'.
+103	"Sherd"	"of"	"part"	1.0
+103	"the wall cut"	"with"	"two slim triangular slits"	1.0
+103	"the wall cut"	"out preserved"	1.0
+103	"two light grooves"	"on"	"upper part"	1.0
+103	"outside glazed above"	1.0
+103	"series"	"of"	"bands"	1.0
+103	"series of bands"	"to"	"the sides"	1.0
+103	"series of bands"	"with the"	"glaze spilling"	1.0
+103	"series of bands"	"on"	"cut-out area"	1.0
+103	"series"	"with"	"the glaze spilling"	1.0
+103	"series of bands"	"below"	1.0
+Mould-made scarab in glaze composition; back simply modelled with simplified clypeus, prothorax and elytra marked by thick lines; humeral callosities indicated by triangular ticks; profile flattened; at side, legs not understood, represented by broad incised lines forming a small triangle, but not cut away; underside bearing crude incised (?) hieroglyphic inscription arranged horizontally and composed of three signs; longitudinally pierced; thick yellow glaze; pale yellow core.
+104	"Mould-made scarab"	"in"	"glaze composition"	1.0
+104	"Mould-made scarab in glaze"	1.0
+104	"humeral callosities"	"indicated"	"by"	"triangular ticks"	1.0
+104	"profile"	"flattened"	1.0
+104	"legs"	"represented"	"by"	"broad incised lines"	1.0
+104	"legs"	"not understood"	1.0
+104	"underside bearing crude"	"composed"	"of"	"three signs"	1.0
+104	"underside bearing crude"	"incised (?)"	"hieroglyphic inscription"	1.0
+104	"longitudinally pierced"	1.0
+104	"thick yellow glaze"	1.0
+Rim sherd of Chian Mature Animal Style pottery chalice; white slip; interior: reserved band at rim, glazed streaky black below; exterior: band of 'S' between narrow brown bands; below, painted decoration consisting of a curved brown horizontal line, possibly part of the head and curlicue of a sphinx, to left.
+105	"reserved band"	"at"	"rim"	1.0
+105	"reserved"	"at"	"rim"	1.0
+105	"reserved band"	"glazed streaky black below"	1.0
+105	"band"	"of"	"'S'"	1.0
+105	"band"	"between"	"brown bands"	1.0
+105	"band"	"between"	"narrow brown bands"	1.0
+105	"painted decoration"	"consisting"	"to"	"left"	1.0
+105	"painted decoration"	"consisting"	"of"	"a curved brown horizontal line"	1.0
+105	"painted decoration"	"to left"	1.0
+Rim and body sherd of South Ionian pottery cup with everted rim; glaze largely fired red-brown; interior: reserved band at top of rim, glazed below; on body, two reserved bands; exterior: black band at top of rim; rest of rim and handle zone reserved with band between; glazed below; inscription on exterior of lip.
+106	"Rim"	"of"	"South Ionian pottery cup"	1.0
+106	"Rim and body sherd of South Ionian pottery cup"	"with"	"everted rim"	1.0
+106	"Rim"	"with"	"everted rim"	1.0
+106	"largely fired red-brown"	1.0
+106	"reserved band"	"at"	"top of rim"	0.6
+106	"reserved"	"at"	"rim"	0.2
+106	"reserved"	"at"	"top of rim"	0.6
+106	"reserved"	"glazed below"	0.25
+106	"black band"	"of"	"rim"	0.75
+106	"black band"	"at"	"top of rim"	0.5
+106	"rest"	"of"	"rim"	1.0
+106	"band"	"between"	1.0
+106	"glazed below"	1.0
+106	"inscription"	"of"	"lip"	1.0
+106	"inscription"	"on"	"exterior of lip"	0.5
+Glazed composition figure of a seated double-flute player; two pieces re-joined.
+107	"Glazed composition figure"	"of a"	"seated double-flute player"	1.0
+107	"two pieces"	"re-joined"	1.0
+Crudely modelled with shoulder-length wide-flaring hair.
+Seated on block seat, with flat back pillar behind.
+No suspension loop.
+Proportions distorted with legs and seat too short for size of upper part.
+111	"Proportions"	"distorted with"	"legs and seat"	1.0
+111	"Proportions"	"too short for"	"size of upper part"	1.0
+Glaze none survives except for greenish tinge, and some traces of black/brown on hair.
+112	"Glaze none"	"except"	"greenish tinge and some traces"	1.0
+112	"Glaze none"	"for"	"greenish tinge and some traces"	1.0
+112	"brown"	"on"	"hair"	0.5
+112	"Glaze none"	"of black"	1.0
+Core rough texture, buff colour.
+Volute handle and rim sherd (consisting of 3 fragments, two joining) of Laconian black-glazed pottery volute-krater; interior glazed black; exterior: white slip on exterior surface of rim and on sides of volute handle; glazed black on top of rim and handle; on rim chevrons; on sides of volute curvind diagonal strokes; neck glazed black.
+114	"interior"	"glazed black"	0.5
+114	"white slip"	"on"	"exterior surface of rim"	0.75
+114	"white slip"	"on"	"sides of volute"	0.5
+114	"white slip"	"handle"	1.0
+114	"neck"	"glazed black"	1.0
+114	"neck glazed black"	1.0
+Scaraboid in glazed composition; back in form of Black African head with crudely cut out facial features, with hair indicated by cross-hatched diamonds; ears added as lumps of material; rather flattened in profile; underside incised with motif  arranged horizontally with representation of robed figure with extended wings on either side, striding to right and flanked at his feet by cobras; laterally pierced across head just below hairline; glaze still remains mostly buff; core buff to yellow.
+115	"Scaraboid"	"in"	"glazed composition"	1.0
+115	"form"	"of"	"African head with cut"	1.0
+115	"African head"	"with"	"cut with hair"	0.333333333333
+115	"ears"	"added"	"as"	"lumps of material"	1.0
+115	"underside"	"incised"	"with"	"motif"	1.0
+115	"underside"	"incised"	"by"	"cobras"	1.0
+115	"underside"	"striding"	"to"	"right"	1.0
+115	"underside"	"incised"	"with"	"extended wings"	0.333333333333
+115	"his feet"	"by"	"cobras"	0.5
+115	"core buff"	"to yellow"	1.0
+Cement or plaster seal from a wine amphora stopper, with a stamped inscription.
+116	"Cement"	"from"	"wine amphora stopper with inscription"	0.5
+116	"Cement or plaster seal"	"with a"	"stamped inscription"	1.0
+116	"Cement or plaster seal"	"from"	"a wine amphora stopper"	1.0
+Plug is missing, but would have been either a ceramic or cork disc.
+117	"Plug"	"is missing"	1.0
+Broken in half and text obscured or missing in places.
+118	"Broken"	"missing"	"in"	"places"	1.0
+118	"Broken"	"in"	"half and text"	0.5
+Lower body and conical foot sherd of East Dorian pottery cup, presumably with everted rim; wholly glazed save for underside;  inscription on underside.
+119	"Lower body"	"with"	"everted rim"	1.0
+119	"Lower body and conical foot sherd of East Dorian pottery cup"	"presumably with"	"everted rim"	1.0
+119	"inscription"	"on"	"underside"	1.0
+Body sherd of Chian Mature Animal Style pottery chalice; white slip; interior glazed streaky black; part of lotus flower in added white outline with added red centres above two white bands; exterior: painted decoration consisting of hindquarters with red patch of possible feline to left; pendant roundel and elaborate rosettes as filling ornament.
+120	"interior"	"glazed black"	0.75
+120	"interior"	"glazed streaky black"	0.75
+120	"part"	"above"	"white bands"	1.0
+120	"part of lotus flower"	"in"	"added white outline"	1.0
+120	"part of lotus flower"	"with"	"added red centres"	1.0
+120	"part"	"of"	"lotus flower in white outline"	0.666666666667
+120	"part of lotus flower"	"above"	"two white bands"	1.0
+120	"painted decoration"	"consisting"	"of"	"hindquarters"	1.0
+120	"painted decoration"	"consisting"	"to"	"left"	1.0
+120	"painted decoration"	"consisting"	"with"	"red patch"	1.0
+120	"painted decoration"	"to left"	1.0
+120	"pendant roundel and elaborate rosettes"	"as"	"filling ornament"	0.5
+Body and handle sherd of Corinthian Linear Style pottery miniature kotyle (kotyliskos); interior: painted black dot in between inverted black triangles beneath lipless rim followed by three (perhaps four) black concentric bands; exterior: two narrow and one wide black painted concentric bands.
+121	"painted black dot"	"beneath"	"lipless rim"	1.0
+121	"painted black dot"	"between"	"inverted black triangles"	1.0
+Wall sherd (mended from seven fragments) of East Greek (North Ionian) black-figured pottery bowl; interior glazed save for broad reserved band near lip; decoration in added red and white, from top: white zig-zag; red band between white bands; alternate red and white dot rosettes; red band lined in white; alternate red, white and black tongues with incised outline; red band lined in white; incised lotus and bud frieze with added red and white; worn added colour band; part of shallow palmette, incised with some added red petals.
+122	"interior glazed save"	"for"	"broad reserved band"	1.0
+122	"interior glazed save"	"near"	"lip"	1.0
+122	"interior"	"glazed"	1.0
+122	"decoration"	"from"	"top"	1.0
+122	"decoration"	"in"	"added red and white"	0.5
+122	"white"	"zig-zag"	1.0
+122	"red band"	"between"	"white bands"	1.0
+122	"band"	"between"	1.0
+122	"red band"	"lined"	"in"	"white"	1.0
+122	"part of shallow palmette"	"incised"	"with some"	"added red petals"	1.0
+122	"part"	"of"	"palmette"	1.0
+122	"part"	"of"	"shallow palmette"	1.0
+Handle sliver of pottery transport amphora.
+123	"sliver"	"of"	"pottery transport amphora"	1.0
+Red paint.
+Clay fine light brown.
+Rectangular stamp.
+Rim sherd of South Ionian pottery little master cup; interior: trace of concentric dilute lines in between black bands; exterior: black band on edge of rim followed by myrtle leaf pattern with single row of added white dots.
+127	"trace of concentric dilute lines"	"in"	"black bands"	1.0
+127	"trace of concentric dilute lines"	"between"	"black bands"	1.0
+127	"black band"	"on"	"edge of rim"	0.333333333333
+Rim and body sherd (mended from three fragments with added plaster) of South Ionian pottery cup with everted rim; interior: reserved band at top of rim, glazed black below; top of lip glazed; exterior: lip and handle zone reserved with band between;  glazed on wall below; inscription on exterior.
+128	"Rim sherd (mended from three fragments with added plaster)"	"of"	"South Ionian pottery cup"	1.0
+128	"Rim and body sherd (mended from three fragments with added plaster) of South Ionian pottery cup"	"with"	"everted rim"	1.0
+128	"reserved band"	"at"	"top of rim"	0.6
+128	"reserved"	"at"	"rim"	0.2
+128	"reserved"	"at"	"top of rim"	0.6
+128	"reserved band"	"glazed black below"	1.0
+128	"top of rim"	"glazed"	0.5
+128	"glazed black"	1.0
+128	"top"	"of"	"lip"	1.0
+128	"top of lip"	"glazed"	1.0
+128	"lip and handle zone reserved"	"with"	"band"	1.0
+128	"band"	"between"	0.5
+128	"inscription"	"on"	"exterior"	1.0
+Oval handle of a pottery transport amphora sliver to sharpish turn.
+129	"Oval"	"handle"	"of"	"a pottery transport amphora sliver"	0.5
+129	"Oval"	"handle"	"to"	"sharpish"	1.0
+129	"Oval"	"turn"	1.0
+Clay fine pink-buff;  cream slip.
+Circular stamp with rose symbol.
+131	"Circular stamp"	"with"	"rose symbol"	1.0
+Lower body sherd of Chian Simple Animal Style pottery chalice; discoloured white slip; interior glazed streaky black with added white band at top of sherd; exterior: light brown line at top of sherd above part of double saw-edged metope pattern in handle zone; on right, vertical brown lines beside handle root; below, light brown band, part of an incised circle (possible inscription).
+132	"interior"	"glazed"	"streaky black with"	"added white band"	1.0
+132	"interior"	"glazed"	"at"	"top of sherd"	1.0
+132	"interior"	"glazed streaky black"	0.5
+132	"light brown line"	"above"	"part of metope pattern"	0.5
+132	"light brown line"	"above"	"part of double saw-edged metope pattern"	0.5
+132	"light brown line"	"at"	"top of sherd"	0.5
+132	"light brown line"	"in"	"handle zone"	1.0
+132	"vertical brown lines"	"beside"	"handle root"	1.0
+132	"part"	"of an"	"incised circle (possible inscription)"	1.0
+Lower body sherd of large Chian, possibly Mature Animal Style, pottery chalice; white slip; interior: glazed streaky black; two faded concentric added white bands; exterior: from top: end of two vertical lines, possibly part of handle frill pattern; below, brown band; second brown band near bottom of sherd; inscription on exterior.
+133	"glazed black"	1.0
+133	"glazed streaky black"	1.0
+133	"end"	"of"	"lines"	1.0
+133	"second brown band"	"near"	"bottom of sherd"	0.5
+133	"inscription"	"on"	"exterior"	1.0
+Fragment of terracotta statue; red and black chequer-board panel and black floral band.
+134	"Fragment"	"of"	"terracotta"	1.0
+Egyptian sealing in fired clay.
+135	"Egyptian"	"sealing"	"in"	"fired clay"	1.0
+A sealing impressed by an intaglio gem, with a naked figure, possibly a woman but not certainly so (there is a fairly obvious breast), standing half crouched to left, the left arm extended, the right hand raised in the pose of a wrestler about to engage with an opponent; in relief behind her are the letters upsilon and lambda.
+136	"A sealing impressed"	"crouched"	"to"	"left"	0.5
+136	"the right hand"	"raised"	"to"	"engage"	1.0
+136	"the right hand"	"raised"	"in"	"the pose of a wrestler"	1.0
+136	"A sealing impressed"	"by"	"an intaglio gem"	1.0
+136	"A sealing impressed"	"with"	"a naked figure"	1.0
+136	"A sealing impressed"	"extended"	0.5
+The sealing is almost circular, with cracked edges and a flat back: there is no evidence for its application to anything.
+137	"The sealing is almost circular"	"with"	"cracked edges and a flat back"	1.0
+137	"there"	"to"	"anything"	0.5
+137	"there"	"is"	"no evidence"	1.0
+Orange-brown Nile silt.
+Fragment of limestone column-necking decorated with moulding.
+139	"Fragment of limestone column-necking"	"decorated"	"with"	"moulding"	1.0
+139	"Fragment"	"of"	"limestone column-necking"	1.0
+The upper surface shows a plain astragal with rebate.
+It is stepped and the break at the rear, which has the form of a segment of a circle, shows that a step was set there as well.
+141	"It"	"at"	"the rear"	1.0
+141	"which"	"as well"	1.0
+Traces of red colouring are shown on the upper surface.
+142	"Traces of red"	"colouring are shown"	"on"	"the upper surface"	1.0
+This fragment of moulding is part of the relief-ground of the Anthemion.
+143	"part"	"of"	"relief-ground of Anthemion"	1.0
+Rim sherd of South Ionian pottery little master cup; interior: reserved band around edge of rim and glazed black below; exterior: black band on edge of rim followed by myrtle leaf pattern with single row of added white dots.
+144	"reserved band"	"around"	"edge of rim"	0.6
+144	"reserved"	"around"	"edge of rim"	0.6
+144	"reserved band"	"glazed black below"	1.0
+144	"glazed below"	1.0
+144	"black band"	"on"	"edge of rim"	0.333333333333
+Sherd of pottery open vessel body, orientation uncertain; offsets at top and bottom of sherd; reserved on offsets, the rest black glazed with; incised and painted decoration in white and yellow; egg and dart pattern.
+145	"Sherd"	"of"	"pottery"	1.0
+145	"offsets"	"at"	"top and bottom of sherd"	1.0
+145	"reserved"	"on"	"offsets"	1.0
+145	"the rest"	"black glazed with"	0.5
+145	"glazed with"	1.0
+Body sherd of Corinthian black figure pottery alabastron; exterior: black figure decoration consisting of marching hoplites (part of round shield with added red in centre and added white dots around edge and legs), to right; alternating black and white bands and dotted rosette as filling ornament.
+146	"black figure decoration"	"consisting"	"of"	"marching hoplites (part of round shield with added red in centre and added white dots around edge and legs)"	1.0
+146	"black figure decoration"	"consisting"	"to"	"right"	1.0
+146	"black decoration consisting"	1.0
+Rim sherd of Chian Simple Animal Style, possibly patterned, pottery chalice; white slip; interior: reserved band around rim and glazed streaky black below; exterior: slip partly worn; narrow brown line on edge of rim; around rim, single narrow band with line of single dots and reserved below; very worn inscription on exterior.
+147	"Rim sherd of Chian Simple Animal Style"	"possibly patterned"	1.0
+147	"reserved band"	"around"	"rim"	1.0
+147	"reserved"	"around"	"rim"	1.0
+147	"reserved band"	"glazed streaky black below"	1.0
+147	"slip"	"partly worn"	1.0
+147	"narrow brown line"	"on"	"edge of rim"	0.666666666667
+147	"narrow brown line"	"of"	"rim"	1.0
+147	"single narrow band"	"with"	"line of single dots and reserved"	0.5
+147	"single narrow band"	"below"	1.0
+147	"very worn inscription"	"on"	"exterior"	0.5
