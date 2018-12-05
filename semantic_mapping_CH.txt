@@ -1,0 +1,74 @@
+# semantic mapping for CH
+# <tab> delimited list of pre-requisites followed by mapping 'semantic_type(schema)'
+# e.g. rel_head(...) <tab> subj_type(...) <tab> obj_type(...) <tab> semantic_type(...)
+# mapping rules will be sorted by number of terms and executed in this order. first mapping rule that matches idefined the semantic mapping.
+# wordnet attribute_wn(...) names are the syn base name as mapping has no idea of contextual wordsense (e.g. color.01.colour == color)
+
+
+# TODO create new app to run TACL evaluations (science and CH data at least)
+# TODO consider running association mining several times (training on inferences made)?
+# TODO write code to take final item set and generate triples (after checking with Max what RDF is useful for ResearchSpace)
+# TODO think about examples with negatives so association mining has something it can learn from ==> can we do feedback so negative examples get flagged as such on a case by case basis? do we simply reject all negatives later?
+
+
+#
+# Mappings for ResearchSpace predicates
+#
+
+# has_colour_obj
+obj_wn(color)	semantic_type(http://gravitate.org/id/relation/has_colour_obj)
+
+# has_colour_subj
+subj_wn(color)	semantic_type(http://gravitate.org/id/relation/has_colour_subj)
+
+# has_part_obj
+obj_type(http://gravitate.org/id/part)	semantic_type(http://gravitate.org/id/relation/has_part_obj)
+
+# has_part_subj
+subj_type(http://gravitate.org/id/part)	semantic_type(http://gravitate.org/id/relation/has_part_subj)
+
+# has_symbol_obj
+attribute_wn(mark)	obj_wn(symbol)	semantic_type(http://gravitate.org/id/relation/has_symbol_obj)
+attribute_wn(mark)	obj_wn(letter)	semantic_type(http://gravitate.org/id/relation/has_symbol_obj)
+attribute_wn(mark)	obj_wn(number)	semantic_type(http://gravitate.org/id/relation/has_symbol_obj)
+
+# has_symbol_subj
+attribute_wn(mark)	subj_wn(symbol)	semantic_type(http://gravitate.org/id/relation/has_symbol_subj)
+attribute_wn(mark)	subj_wn(letter)	semantic_type(http://gravitate.org/id/relation/has_symbol_subj)
+attribute_wn(mark)	subj_wn(number)	semantic_type(http://gravitate.org/id/relation/has_symbol_subj)
+
+# is_decorated_obj
+attribute_wn(cut)	semantic_type(http://gravitate.org/id/relation/is_decorated_obj)
+attribute_wn(paint)	semantic_type(http://gravitate.org/id/relation/is_decorated_obj)
+attribute_wn(enhance)	semantic_type(http://gravitate.org/id/relation/is_decorated_obj)
+obj_wn(decoration)	semantic_type(http://gravitate.org/id/relation/is_decorated_obj)
+obj_type(http://gravitate.org/id/decoration)	semantic_type(http://gravitate.org/id/relation/is_decorated_obj)
+
+# is_decorated_subj
+subj_wn(decoration)	semantic_type(http://gravitate.org/id/relation/is_decorated_subj)
+subj_type(http://gravitate.org/id/decoration)	semantic_type(http://gravitate.org/id/relation/is_decorated_subj)
+
+# made_of_material_obj
+attribute_wn(cut)	obj_type(http://collection.britishmuseum.org/id/thesauri/material)	semantic_type(http://gravitate.org/id/relation/made_of_material_obj)
+attribute_wn(consist)	obj_type(http://collection.britishmuseum.org/id/thesauri/material)	semantic_type(http://gravitate.org/id/relation/made_of_material_obj)
+attribute_wn(cut)	obj_wn(material)	semantic_type(http://gravitate.org/id/relation/made_of_material_obj)
+attribute_wn(consist)	obj_wn(material)	semantic_type(http://gravitate.org/id/relation/made_of_material_obj)
+
+# made_of_material_subj
+subj_type(http://collection.britishmuseum.org/id/thesauri/material)	semantic_type(http://gravitate.org/id/relation/made_of_material_subj)
+subj_wn(material)	semantic_type(http://gravitate.org/id/relation/made_of_material_subj)
+
+# has_shape_obj
+obj_type(http://gravitate.org/id/geometric_shape)	semantic_type(http://gravitate.org/id/relation/has_shape_obj)
+
+# has_shape_subj
+subj_type(http://gravitate.org/id/geometric_shape)	semantic_type(http://gravitate.org/id/relation/has_shape_subj)
+
+# has_attire
+obj_type(http://gravitate.org/id/attire)	semantic_type(http://gravitate.org/id/relation/has_attire_obj)
+subj_type(http://gravitate.org/id/attire)	semantic_type(http://gravitate.org/id/relation/has_attire_subj)
+
+# has_role
+subj_type(http://gravitate.org/id/role)	semantic_type(http://gravitate.org/id/relation/has_role_subj)
+obj_type(http://gravitate.org/id/role)	semantic_type(http://gravitate.org/id/relation/has_role_obj)
+

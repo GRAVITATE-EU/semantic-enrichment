@@ -1,0 +1,57 @@
+#
+# Ranked list BM schema types for noun schema ranking
+# only noun types in this list will be allowed so it can be used to filter out noun types that are not wanted in final predicate
+#
+
+#
+# Gravitate noun types (schema)
+#
+http://gravitate.org/id/part
+http://gravitate.org/id/spatial_ref
+http://gravitate.org/id/geometric_shape
+
+#
+# BM thesauri (ranked lower as terms can overmatch)
+#
+
+http://collection.britishmuseum.org/id/thesauri/object
+
+http://collection.britishmuseum.org/id/person-institution
+
+http://collection.britishmuseum.org/id/thesauri/material
+http://collection.britishmuseum.org/id/thesauri/ware
+http://collection.britishmuseum.org/id/thesauri/treatment
+
+http://collection.britishmuseum.org/id/thesauri/inscription-subject
+http://collection.britishmuseum.org/id/thesauri/inscription
+
+http://collection.britishmuseum.org/id/thesauri/analysis
+http://collection.britishmuseum.org/id/thesauri/aspect
+
+http://collection.britishmuseum.org/id/thesauri/currency
+http://collection.britishmuseum.org/id/thesauri/dimension
+
+#
+# below BM lexicon schema types removed as descriptions are talking about objects (and places for example generate false positives we can avoid)
+#
+
+#http://collection.britishmuseum.org/id/place
+#http://collection.britishmuseum.org/id/place/type
+#http://collection.britishmuseum.org/id/thesauri/location
+
+#http://collection.britishmuseum.org/id/thesauri/script
+
+#http://collection.britishmuseum.org/id/thesauri/subject
+#http://collection.britishmuseum.org/id/thesauri/school
+#http://collection.britishmuseum.org/id/thesauri/matcult
+
+#http://collection.britishmuseum.org/id/thesauri/authority
+#http://collection.britishmuseum.org/id/thesauri/association
+#http://collection.britishmuseum.org/id/thesauri/department
+#http://collection.britishmuseum.org/id/thesauri/group
+
+#http://collection.britishmuseum.org/id/thesauri/ethname
+#http://collection.britishmuseum.org/id/thesauri/language
+#http://collection.britishmuseum.org/id/thesauri/nationality
+#http://collection.britishmuseum.org/id/thesauri/political-state
+#http://collection.britishmuseum.org/id/thesauri/state

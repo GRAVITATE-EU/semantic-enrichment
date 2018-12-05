@@ -1,0 +1,33 @@
+# schema_uri <tab> phrase 1 | phrase 2 | ... phrase N <tab> hyper_uri+1 hyper_uri+2 ... hyper_uri+N
+# parts
+http://gravitate.org/id/part	part	
+http://gravitate.org/id/part	body part | body | bodies | groin | pelvis | penis | vagina | buttock | bottom | back | torso | chest | thorax | abdomen | nipple | breast | boob | rib | ribcage | spine | skin | waist | neck	http://gravitate.org/id/part#part
+http://gravitate.org/id/part	prothorax | wings | antenna | claw | tail hoof | feeler	http://gravitate.org/id/part#part
+http://gravitate.org/id/part	head | eye | eyelid eyebow | eyeball | mouth | ear | teeth | fang | forehead | scalp | hair | beard | moustache | curl | nose | cheek | lip | tounge | chin | skull	http://gravitate.org/id/part#body+part
+http://gravitate.org/id/part	foot | feet | ankle  heel  toenail | toe	http://gravitate.org/id/part#body+part
+http://gravitate.org/id/part	leg | upper leg | lower leg | thigh | hind leg | foreleg 	http://gravitate.org/id/part#body+part
+http://gravitate.org/id/part	hand | finger | knuckle | palm | fingernail | thumb | wrist | paw | pincer	http://gravitate.org/id/part#body+part
+http://gravitate.org/id/part	arm | forearm | upper arm | lower arm | shoulder | tencacle	http://gravitate.org/id/part#body+part
+http://gravitate.org/id/part	object part	http://gravitate.org/id/part#part
+http://gravitate.org/id/part	handle | lid | rim	http://gravitate.org/id/part#object+part
+
+# spatial references
+http://gravitate.org/id/spatial_ref	spatial reference	
+http://gravitate.org/id/spatial_ref	top | top side | bottom | bottom side | base | lower | lower side | upper | upper side | left | right | side | underside | front | front end | rear | back | back end | inside | interior | outside | exterior | opposite | next to | nearby | close to | parallel | tangential | perpendicular | vertical | diagonal | oblique |horizontal	http://gravitate.org/id/spatial_ref#spatial+reference
+
+# shapes
+http://gravitate.org/id/geometric_shape	shape | geometric shape	
+http://gravitate.org/id/geometric_shape	circle | round | square | diamond | rectangle | star | oval | triangle | pentagon | hexagon | sphere | cube | column | tube | cylinder | line | curve | convex | concave| convex | disc |  loop| spiral | ovoid | almond	http://gravitate.org/id/geometric_shape#shape
+
+# attire
+http://gravitate.org/id/attire	clothing	
+http://gravitate.org/id/attire	clothing | headdress | helmet | tassel | cheek-piece | cuirass | strap | scabbard | earring | chiton | collar | kilt | sandal | fringe | mantle | garment | sleeve | hemline | necklace | turban| wreath | girdle | cap | cord	http://gravitate.org/id/attire#clothing
+
+# decoration
+http://gravitate.org/id/decoration	decoration	
+http://gravitate.org/id/decoration	incised | painted | relief | stamped | moulded | impressed | grooved | pierced	http://gravitate.org/id/decoration#decoration
+http://gravitate.org/id/decoration	motif	http://gravitate.org/id/decoration#decoration
+http://gravitate.org/id/decoration	flower | rosette | circle | scale | lotus | arch | plait | line | guilloche | herringbone | animal | rope | band | arch | background | checquer	http://gravitate.org/id/decoration#motif
+
+# role
+http://gravitate.org/id/role	female | male | youth | warrior | priest | worshipper	

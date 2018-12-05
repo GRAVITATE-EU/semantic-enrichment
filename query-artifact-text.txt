@@ -1,0 +1,25 @@
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX xlink: <http://www.w3.org/1999/xlink/>
+PREFIX xsi: <http://www.w3.org/2001/XMLSchema-instance/>
+PREFIX crm: <http://www.cidoc-crm.org/cidoc-crm/>
+PREFIX rso: <http://www.researchspace.org/ontology/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX crmdig: <http://www.ics.forth.gr/isl/CRMext/CRMdig.rdfs/>
+
+SELECT DISTINCT ?artifact ?desc_type ?text
+WHERE {
+	?artifact rdf:type ?crm_type .
+	{
+		?artifact rso:PX_physical_description ?text .
+		BIND( rso:PX_physical_description as ?desc_type )
+	}
+	UNION
+	{
+		GRAPH <http://gravitate.org/id/cyi_annotations/graph> {
+			?artifact crm:P3_has_note ?text .
+			BIND( crm:P3_has_note as ?desc_type )
+		}
+	}
+	FILTER( ?crm_type = crm:E22_Man-Made_Object )
+}
+ORDER BY ?artifact ?desc_type ?text

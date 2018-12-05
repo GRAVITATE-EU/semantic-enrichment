@@ -1,0 +1,53 @@
+IPR registry semantic-enrichment
+Last updated 23/11/2018
+
+# University of Southampton software
+
+semantic-enrichment 1.0
+	University of Southampton
+	BSD variant. This software should only be used for research, education or evaluation purposes. A free commercial license is available on request to sem03@soton.ac.uk
+	see LICENSE.txt
+
+# 3rd party software pre-requisites (software required by module but installed independently)
+
+R v3.4.4
+	The R Foundation
+	GPL v2
+	https://cran.r-project.org/
+
+Stanford POS tagger 
+	Stanford University
+	GPL v2
+	https://nlp.stanford.edu/software/tagger.shtml
+
+Stanford Parser
+	Stanford University
+	GPL v2
+	https://nlp.stanford.edu/software/tagger.shtml
+
+python 2.7.8
+	Python Software Foundation
+	Python Software Foundation License
+	http://www.python.org/psf/license
+
+numpy 1.13.1+mkl
+	Author: NumPy Developers
+	BSD
+	http://www.numpy.org
+
+nltk 3.2.1
+	NLTK Project
+	Apache License Version 2.0
+	http://www.nltk.org
+
+openiepy 0.1.0
+	University of Southampton
+	BSD variant
+
+soton_corenlppy 0.1.0
+	University of Southampton IT Innovation Centre
+	BSD variant
+
+lexicopy 0.1.0
+	University of Southampton IT Innovation Centre
+	BSD variant

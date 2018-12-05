@@ -1,0 +1,3 @@
+# schema_uri <tab> phrase 1 | phrase 2 | ... phrase N <tab> hyper_uri+1 hyper_uri+2 ... hyper_uri+N
+# pronoum types from https://dictionary.cambridge.org/grammar/british-grammar/pronouns
+http://openiepy/id/pronoun	he | him | she | her | it | its | it's | he's | hes | she's | shes | they | them | there | this | all | my | me | mine | our | ours | our's | you | we | us | one | your | yours | your's | i | i've | ive | myself | themself | themselves | youself | himself | herself | itself | oneself | ourselves | yourselves	
